@@ -6,9 +6,9 @@ This is a boilerplate for creating React applications with a focus on with Vite.
 
 | Package          | Version |
 | ---------------- | ------- |
-| Vite             | 5.1.4   |
+| Vite             | 5.2.3   |
 | React            | 18.2.0  |
-| React Router DOM | 6.22.2  |
+| React Router DOM | 6.22.3  |
 | Tailwind CSS     | 3.4.1   |
 
 ## Prerequisites
